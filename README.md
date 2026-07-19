@@ -89,13 +89,4 @@ You can add new commands by editing code in the `functions/` folder.
 - Internet is required for Wikipedia/OpenAI requests.
 - You can connect other APIs or services as well.
 
-------------------------------------------------------------
-📞 CONTACT
-------------------------------------------------------------
-
-For feedback or contributions, raise a GitHub issue or PR.
-
-Made with 🧠 and 🐍 by [Your Name or GitHub Handle]
-
-============================================================
 
